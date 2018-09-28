@@ -9,6 +9,7 @@ public class DuploIgual {
 		
 		x = 3;
 		System.out.println(x == y);
+	
 		
 	}
 
