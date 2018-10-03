@@ -1,6 +1,6 @@
-package exemplos;
+package exercicios;
 
-public class While {
+public class Ex001NumerosNaturaisDecresente {
 	public static void main(String[] args) {
 		int i = 10;
 
@@ -12,3 +12,4 @@ public class While {
 		
 	}
 }
+
