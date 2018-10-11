@@ -10,8 +10,10 @@ public class GeradorDeAbobrinha {
 		System.out.println("Escreve uma palavra ai cara");
 
 		String palavras = entrada.nextLine();
-		String[][] matrizPalavras = { { "Bode", "Madeira", "Pia", "" }, { "", "Não Pode", "Furado", "Mexe" },
-				{ "na", "de", "com", "dentro" }, { "você", "eu", "nós", "alguém" } };
+		String[][] matrizPalavras = { { "Bode", "Madeira", "Pia", "" },
+				{ "", "Não Pode", "Furado", "Mexe" },
+				{ "na", "de", "com", "dentro" }, 
+				{ "você", "eu", "nós", "alguém" } };
 
 		System.out.println(palavras);
 
